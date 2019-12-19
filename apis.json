@@ -1,0 +1,61 @@
+{
+    "name": "Dimebox",
+    "description": "Dimebox, based in Amsterdam, was founded in 2014 by experts with proven track-records in the expanding global e-payments industry.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28741-www-dimebox-com.jpg",
+    "tags": [
+        "api not found",
+        "commerce",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dimebox\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Dimebox",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28741-www-dimebox-com.jpg",
+            "humanURL": "https:\/\/www.dimebox.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dimebox-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.dimebox.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/dimebox"
+        },
+        {
+            "type": "Email",
+            "url": "info@dimebox.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@dimebox.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@dimebox.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/dimeboxpayment"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.dimebox.com"
+        }
+    ]
+}
